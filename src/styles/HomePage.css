@@ -1,0 +1,10 @@
+/* HomePage.css */
+.sm-cards-container {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    margin-top: 20px;
+  }
